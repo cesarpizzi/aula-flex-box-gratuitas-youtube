@@ -21,8 +21,8 @@ body {
 
 .flex {  
   padding: 5px;
-  min-width: 800px;
-  min-height: 675px;
+  width: 800px;
+  height: 600px;
 
   background: url('./eixo.png') no-repeat center;
   background-color:#FFF;
